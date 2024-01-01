@@ -1,4 +1,4 @@
-# hello-world
+# Personal Wiki
 
 ## Project setup
 ```
