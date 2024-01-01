@@ -16,8 +16,12 @@ export default {
 </script>
 
 <style>
+@font-face {
+    font-family: Palatino;
+    src: url('./assets/fonts/Palatino.ttf');
+}
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Palatino;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
